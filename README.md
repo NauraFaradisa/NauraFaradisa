@@ -10,10 +10,10 @@ I love math, science, and art..
 
 ## Pin
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NauraFaradisa&repo=Tic-Tac-Toe&title_color=696969&bg_color=F8F8FF" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NauraFaradisa&repo=Todolist&title_color=696969&bg_color=F8F8FF" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NauraFaradisa&repo=Stopwatch&title_color=696969&bg_color=F8F8FF" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NauraFaradisa&repo=Calendar&title_color=696969&bg_color=F8F8FF" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NauraFaradisa&repo=Tic-Tac-Toe&title_color=696969&bg_color=F8F8FF" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NauraFaradisa&repo=Todolist&title_color=696969&bg_color=F8F8FF" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NauraFaradisa&repo=Stopwatch&title_color=696969&bg_color=F8F8FF" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NauraFaradisa&repo=Calendar&title_color=696969&bg_color=F8F8FF" width="60%"/>
 
 ---
 <div>
