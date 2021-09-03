@@ -7,7 +7,7 @@ I love math, science, and art. I code just for fun!
 <br><br>
 
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=NauraFaradisa&title_color=696969&show_icons=true&hide_rank=false&include_all_commits=true&bg_color=F8F8FF"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NauraFaradisa&title_color=696969&show_icons=true&hide_rank=false&include_all_commits=true"/>
 <img src="https://github-profile-trophy.vercel.app/?username=NauraFaradisa&row=2&column=3"/>
 
 ---
